@@ -1,0 +1,138 @@
+#container{
+    width: 500px;
+    height: 500px;
+    border: black solid 5px;
+    display: flex;
+    flex-direction: column;
+}
+
+#calculator-screen{
+    border: red solid 5px;
+    display: flex;
+    flex: 1;
+}
+
+#calculator-buttons{
+    border: green solid 2px;
+    display: flex;
+    flex-direction: column;
+    flex: 6;
+}
+
+#addition-row{
+    text-align: center;
+    border: grey solid 2px;
+    display: flex;
+    flex: 1;
+}
+
+#subtraction-row{
+    text-align: center;
+    border: grey solid 2px;
+    display: flex;
+    flex: 1;
+}
+
+#multiplication-row{
+    text-align: center;
+    border: grey solid 2px;
+    display: flex;
+    flex: 1;
+}
+
+#division-row{
+    text-align: center;
+    border: grey solid 2px;
+    display: flex;
+    flex: 1;
+}
+
+#equals-to-row{
+    text-align: center;
+    border: black solid 4px;
+    display: flex;
+    flex: 1;
+
+}
+#number-zero{
+    border: aqua solid 3px;
+    display: flex;
+    flex: 1;
+}
+#number-one{
+    border: aqua solid 3px;
+    display: flex;
+    flex: 1;
+}
+#number-two{
+    border: aqua solid 3px;
+    display: flex;
+    flex: 1;
+}
+#number-three{
+    border: aqua solid 3px;
+    display: flex;
+    flex: 1;
+}
+#number-four{
+    border: aqua solid 3px;
+    display: flex;
+    flex: 1;
+}
+#number-five{
+    border: aqua solid 3px;
+    display: flex;
+    flex: 1;
+}
+#number-six{
+    border: aqua solid 3px;
+    display: flex;
+    flex: 1;
+}
+#number-seven{
+    border: aqua solid 3px;
+    display: flex;
+    flex: 1;
+}
+#number-eight{
+    border: aqua solid 3px;
+    display: flex;
+    flex: 1;
+}
+#number-nine{
+    border: aqua solid 3px;
+    display: flex;
+    flex: 1;
+}
+#plus-icon{
+    border: teal solid 3px;
+    display: flex;
+    flex: 1;
+}
+#minus-icon{
+    border: teal solid 3px;
+    display: flex;
+    flex: 1;
+}
+#multiply-icon{
+    border: teal solid 3px;
+    display: flex;
+    flex: 1;
+}
+#division-icon{
+    border: teal solid 3px;
+    display: flex;
+    flex: 1;
+}
+#clear-icon{
+    border: teal solid 3px;
+    display: flex;
+    flex: 1;
+}
+#decimal-icon{
+    border: teal solid 3px;
+    display: flex;
+    flex: 1;
+}
+
+
